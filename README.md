@@ -13,4 +13,4 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/2bs5QoJwZmew05052jST9vgIEJc.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O povo de Arcadia muda quando seus entes queridos e já falecidos começam a reaparecer. Jacob, um menino americano, acorda em uma província chinesa. Ele lembra que sua cidade natal é Arcadia e J. Martin Bellamy o leva até lá. Henry e Lucille Langston perderam o filho há mais de 30 anos. Jacob os reconhece como seus pais. A família quer respostas.</info>
-</item>
+</item> 
